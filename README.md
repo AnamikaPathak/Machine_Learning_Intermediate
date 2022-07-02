@@ -1,1 +1,1 @@
-# Machine_Learning_Intro
+# Machine_Learning_Intermediate
